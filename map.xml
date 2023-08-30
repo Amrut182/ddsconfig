@@ -1,8 +1,8 @@
-IpeHub03,ch00001,myCustomchanel01
-IpeHub03,ch00002,IpeHub03#ch00002
-IpeHub03,ch00003,IpeHub03#ch00003
-IpeHub03,ch00004,IpeHub03#ch00004
-IpeHub03,ch00005,IpeHub03#ch00005
-IpeHub03,ch00006,IpeHub03#ch00006
-IpeHub03,ch00007,IpeHub03#ch00007
-IpeHub03,ch00008,IpeHub03#ch00008
+IpeHub05#mychannelch00001	211	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
+IpeHub05#mychannelch00002	212	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
+IpeHub05#mychannelch00003	213	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
+IpeHub05#mychannelch00004	214	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
+IpeHub05#mychannelch00005	215	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
+IpeHub05#mychannelch00006	216	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
+IpeHub05#mychannelch00007	217	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
+IpeHub05#mychannelch00008	218	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
