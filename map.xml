@@ -1,8 +1,8 @@
-IpeHub05#mychannelch00001	211	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
-IpeHub05#mychannelch00002	212	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
-IpeHub05#mychannelch00003	213	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
-IpeHub05#mychannelch00004	214	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
-IpeHub05#mychannelch00005	215	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
-IpeHub05#mychannelch00006	216	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
-IpeHub05#mychannelch00007	217	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
-IpeHub05#mychannelch00008	218	DEG.C	DataTypeFloat	5	ipeTopic	ipePartition
+IpeHub05,ch00001,IpeHub05,#ch00001	
+IpeHub05,ch00001,IpeHub05,#ch00002
+IpeHub05,ch00001,IpeHub05,#ch00003
+IpeHub05,ch00001,IpeHub05,#ch00004
+IpeHub05,ch00001,IpeHub05,#ch00005
+IpeHub05,ch00001,IpeHub05,#ch00006
+IpeHub05,ch00001,IpeHub05,#ch00007
+IpeHub05,ch00001,IpeHub05,#ch00008
