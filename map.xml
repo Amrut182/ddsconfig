@@ -1,8 +1,8 @@
-IpeHub05,ch00001,IpeHub05#NewChannelname01
-IpeHub05,ch00002,IpeHub05#NewChannelname02
-IpeHub05,ch00003,IpeHub05#NewChannelname03
-IpeHub05,ch00004,IpeHub05#NewChannelname04
-IpeHub05,ch00005,IpeHub05#NewChannelname05
-IpeHub05,ch00006,IpeHub05#NewChannelname06
-IpeHub05,ch00007,IpeHub05#NewChannelname07
-IpeHub05,ch00008,IpeHub05#NewChannelname08
+IpeHub05,ch00001,IpeHub05,#NewChannelname01	
+IpeHub05,ch00002,IpeHub05,#NewChannelname02
+IpeHub05,ch00003,IpeHub05,#NewChannelname03
+IpeHub05,ch00004,IpeHub05,#NewChannelname04
+IpeHub05,ch00005,IpeHub05,#NewChannelname05
+IpeHub05,ch00006,IpeHub05,#NewChannelname06
+IpeHub05,ch00007,IpeHub05,#NewChannelname07
+IpeHub05,ch00008,IpeHub05,#NewChannelname08
